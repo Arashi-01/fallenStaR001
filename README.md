@@ -28,7 +28,7 @@
 
 I love to code & keep things simple. 
 
-**Skills**:JS / HTML / CSS / Linux
+**Skills**: JS / HTML / CSS / Linux
 
 - 🔭 I’m currently working on this page. 
 
